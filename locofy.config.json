@@ -4,7 +4,13 @@
     "./src/components/InputDropdown.jsx",
     "./src/components/Button.jsx"
   ],
+  "figmaFile": "https://www.figma.com/design/t3tQp65Bz10CMi81HuCfXD/eSpace-Design-System?node-id=925-34508&p=f&t=9t5LhApJod3PHAWX-0",
+  "output": "src/components",
+  "language": "javascript",
+  "style": "tailwind",
+  "useTokens": true,
   "framework": "react",
   "projectId": "38mrmKNVDSjns3z1xFdepugzr5l",
   "projectName": "eSpace Design System"
+
 }
