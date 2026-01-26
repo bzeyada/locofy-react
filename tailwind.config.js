@@ -2,8 +2,18 @@
 export default {
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        "gray-50": "#fafafa",
+        "gray-700": "#414651",
+        "brand-600": "#006a9a",
+        white: "#fff",
+      },
+      borderRadius: {
+        "radius-8": "8px",
+        "button-md": "8px",
+      },
+    },
   },
   plugins: [],
 }
-
