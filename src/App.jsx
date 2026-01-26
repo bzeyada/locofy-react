@@ -5,7 +5,6 @@ import {
   useNavigationType,
   useLocation,
 } from "react-router-dom";
-import X from "./components/X";
 
 function App() {
   const action = useNavigationType();
@@ -35,7 +34,7 @@ function App() {
 
     if (metaDescription) {
       const metaDescriptionTag = document.querySelector(
-        'head > meta[name="description"]'
+        'head > meta[name="description"]',
       );
       if (metaDescriptionTag) {
         metaDescriptionTag.content = metaDescription;
@@ -45,7 +44,7 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<X />} />
+      <Route path="/" />
     </Routes>
   );
 }
