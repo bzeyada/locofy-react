@@ -1,5 +1,7 @@
 {
-  "components": [],
+  "components": [
+    "./src/components/Button.jsx"
+  ],
   "framework": "react",
   "projectId": "38nd1TijnpcbTXudfEbfvWpj3Sd",
   "projectName": "eSpace Design System - react"
