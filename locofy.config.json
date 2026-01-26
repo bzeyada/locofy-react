@@ -1,9 +1,5 @@
 {
-  "components": [
-    "./src/components/Alert.jsx",
-    "./src/components/InputDropdown.jsx",
-    "./src/components/Button.jsx"
-  ],
+  "components": [],
   "framework": "react",
   "projectId": "38mrmKNVDSjns3z1xFdepugzr5l",
   "projectName": "eSpace Design System"
